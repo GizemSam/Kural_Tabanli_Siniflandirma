@@ -156,9 +156,6 @@ agg_df["customers_level_based"] = ["_".join([str(val).upper() for val in row[:3]
 
 agg_df.head()
 agg_df["customers_level_based"].value_counts()
-#tekilleştirmek için
-#agg_df = agg_df.drop_duplicates(subset=["customers_level_based"])
-
 
 agg_df = agg_df.groupby(["customers_level_based"]).agg({"PRICE":"mean"})
 agg_df=agg_df.reset_index()
