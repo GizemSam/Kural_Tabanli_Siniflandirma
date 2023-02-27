@@ -1,4 +1,4 @@
-![alt text]([https://reverbico.com/wp-content/uploads/2021/04/what-is-customer-lifetime-value.jpg](https://101akademi.com/wp-content/uploads/2021/06/E-Ticaret-101-Akademi-Haziran-Kampi-1.png))
+![alt text]([(https://101akademi.com/wp-content/uploads/2021/06/E-Ticaret-101-Akademi-Haziran-Kampi-1.png])
 # Kural_Tabanli_Siniflandirma
  ---
 ## İş Problemi
