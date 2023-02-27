@@ -26,24 +26,6 @@
 # Country: Müşterinin ülkesi
 # Age: Müşterinin yaşı
 
-################# Uygulama Öncesi #####################
-
-#    PRICE   SOURCE   SEX COUNTRY  AGE
-# 0     39  android  male     bra   17
-# 1     39  android  male     bra   17
-# 2     49  android  male     bra   17
-# 3     29  android  male     tur   17
-# 4     49  android  male     tur   17
-
-################# Uygulama Sonrası #####################
-
-#       customers_level_based        PRICE SEGMENT
-# 0   BRA_ANDROID_FEMALE_0_18  1139.800000       A
-# 1  BRA_ANDROID_FEMALE_19_23  1070.600000       A
-# 2  BRA_ANDROID_FEMALE_24_30   508.142857       A
-# 3  BRA_ANDROID_FEMALE_31_40   233.166667       C
-# 4  BRA_ANDROID_FEMALE_41_66   236.666667       C
-
 
 #############################################
 # PROJE GÖREVLERİ
