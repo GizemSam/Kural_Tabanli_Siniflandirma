@@ -1,5 +1,5 @@
 ![alt text](https://101akademi.com/wp-content/uploads/2021/06/E-Ticaret-101-Akademi-Haziran-Kampi-1.png)
-# Kural_Tabanli_Siniflandirma
+# Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama
 
 ## İş Problemi
 
